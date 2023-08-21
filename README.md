@@ -1,1 +1,1 @@
-# parallel-and-distrubuted-computing-csc-522
+# Parallel and Distributed Computing | CSC 522
